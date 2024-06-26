@@ -19,4 +19,4 @@ To get started with the Invoice Data Extractor, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArpanSethi30/invoice-data-extractor.git
+   git clone https://github.com/arpansethi30/InvoiceExctractor.git
