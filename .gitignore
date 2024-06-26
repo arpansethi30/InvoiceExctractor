@@ -1,0 +1,35 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+env.bak/
+env1/
+env2/
+.env
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+lib/
+libs/
+library/
+libraries/
+bin/
+build/
+dist/
+egg-info/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
